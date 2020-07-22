@@ -259,7 +259,20 @@
     <title/>
   </concept>
 
-  <concept conref="Other/AboutGuidewire.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dca" id="id_umd_2mk_3mb">
+  <concept conref="AboutGuidewire.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dca" id="id_umd_2mk_3mb">
     <title/>
+  </concept>
+  <concept id="concept_rd5_14t_kmb">
+    <title>Title 1 </title>
+    <conbody>
+      <section id="section_nxc_k4t_kmb">
+        <title>Title 2</title>
+        <p>
+          <ul id="ul_kfr_l4t_kmb">
+            <li>Sample paragraph for example</li>
+          </ul>
+        </p>
+      </section>
+    </conbody>
   </concept>
 </concept>
