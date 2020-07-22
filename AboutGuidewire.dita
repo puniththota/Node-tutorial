@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="/SysSchema/schematron/Guidewire.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "/SysSchema/dita/dtd/technicalContent/dtd/concept.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dca" xml:lang="en-US">
+  <title id="AboutGuidewireSoftware">About Guidewire Software</title>
+
+  <conbody>
+    <p>Guidewire delivers the industry platform that Property and Casualty
+    (P&amp;C) insurers rely upon to adapt and succeed in a time of
+    accelerating change. We provide the software, services, and partner
+    ecosystem to enable our customers to run, differentiate, and grow their
+    business. As of the end of our fiscal year 2019, we were privileged to
+    serve more than 380 companies in 34 countries. For more information,
+    please visit <xref format="html" href="http://www.guidewire.com" scope="external">www.guidewire.com</xref> and follow us on twitter: <xref format="html" href="https://twitter.com/Guidewire_PandC" scope="external">@Guidewire_PandC</xref>.</p>
+  </conbody>
+</concept>
