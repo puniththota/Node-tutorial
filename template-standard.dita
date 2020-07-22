@@ -233,7 +233,7 @@
           </tgroup>
         </table></section>
 
-      <section conref="Other/CommonText.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dc9/section_sk2_cfl_3mb" id="section_esm_ffl_3mb"/>
+      <section conref="CommonText.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dc9/section_sk2_cfl_3mb" id="section_esm_ffl_3mb"/>
     </conbody>
   </concept>
 
@@ -241,7 +241,7 @@
     <title><ph conref="Other/CommonText.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dc9/for-more-info"/></title>
 
     <conbody>
-      <p conref="Other/CommonText.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dc9/contact"/>
+      <p conref="CommonText.dita#xd_6ee8ee39a6a2d9d7--1f71d368-172cf860c85--7dc9/contact"/>
 
       <section id="section_qml_zkk_3mb"><title>Additional resources</title>
       <p> <ul id="ul_r1r_1lk_3mb">
@@ -255,7 +255,7 @@
     </conbody>
   </concept>
 
-  <concept conref="Other/AboutGWstandards.dita#xd_f2518dff06542463-3559e9f7-1686ebc1ea3--7b4f" id="id_kjh_ylk_3mb">
+  <concept conref="AboutGWstandards.dita#xd_f2518dff06542463-3559e9f7-1686ebc1ea3--7b4f" id="id_kjh_ylk_3mb">
     <title/>
   </concept>
 
@@ -266,7 +266,7 @@
     <title>Title 1 </title>
     <conbody>
       <section id="section_nxc_k4t_kmb">
-        <title>Title 2</title>
+        <title>Title 3</title>
         <p>
           <ul id="ul_kfr_l4t_kmb">
             <li>Sample paragraph for example</li>
