@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/SysSchema/dita/dtd/technicalContent/dtd/map.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="surepath" xml:lang="en-US">
+  <title>SurePath Standards Master Index</title>
+
+  <topichead>
+    <topicmeta>
+      <navtitle>SurePath standards</navtitle>
+    </topicmeta>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Overview</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/overview_xi407671_1_1.dita" type="concept"/>
+
+      <topicref href="/Content/identifying-standards_xi407673_1_1.dita" type="concept"/>
+
+      <topicref href="/Content/compliance_xi407669_1_1.dita" type="concept"/>
+
+      <topicref href="/Content/publishing-cadence_xi407672_1_1.dita" type="concept"/>
+
+      <topicref href="/Content/submitting-requests-and-feedback_xi407674_1_1.dita" type="concept"/>
+
+      <topicref href="/Content/how-standards-are-created_xi407670_1_1.dita" type="concept"/>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Advanced Product Designer</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/PC-APD-1002_xi407662_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-APD-1002: APD Release</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Business process</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-BPR-1083_xi407508_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-BPR-1083: Business Process Modeling</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Cloud updates</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/DH-CUP-1152_xi407507_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>DH-CUP-1152: Cloud Update - DataHub and Cloud Data
+          Access</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-CUP-1003_xi407509_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-CUP-1003: Cloud Updates - Consuming and
+          Scheduling</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-CUP-1004_xi407510_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-CUP-1004: Cloud Updates - Defining the Work</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-CUP-1005_xi407511_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-CUP-1005: Cloud Updates - Go Live on Latest
+          Version</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-CUP-1119_xi407512_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-CUP-1119: Cloud Updates--VPMOM</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-CUP-1120_xi407513_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-CUP-1120: Cloud Updates--Estimating Guidewire
+          Effort</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IC-CUP-1153_xi407535_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IC-CUP-1153: Cloud Update - InfoCenter -
+          Explore</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Data migration</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/BC-DMI-1141_xi407500_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>BC-DMI-1141: BillingCenter Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/CC-DMI-1142_xi407504_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>CC-DMI-1142: ClaimCenter Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/CM-DMI-1143_xi407506_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>CM-DMI-1143: ContactManager Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-DMI-1118_xi407514_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-DMI-1118: Data Validation and Orchestration</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-DMI-1137_xi407536_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-DMI-1137: Data Segmentation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-DMI-1138_xi407537_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-DMI-1138: Migration Testing Environment
+          Provisioning</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-DMI-1140_xi407538_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-DMI-1140: High Level Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-DMI-1144_xi407663_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-DMI-1144: Policy Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Functional</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/BC-FNC-1126_xi407501_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>BC-FNC-1126: Guidewire BillingCenter History Event
+          Management</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/BC-FNC-1127_xi407502_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>BC-FNC-1127: Implementing UI-Driven Business Rule
+          Overrides in BillingCenter</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/BC-FNC-1128_xi407503_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>BC-FNC-1128: Implementing Enhanced Payment Batching in
+          BillingCenter</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/CC-FNC-1125_xi407505_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>CC-FNC-1125: Extending ClaimCenter to support both ICD-9
+          and ICD-10 Code Mapping</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-FNC-1123_xi407539_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-FNC-1123: Extending Direct Bill Delinquency Management
+          Capabilities in BillingCenter and PolicyCenter</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-FNC-1124_xi407540_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-FNC-1124: Implementing List Bill Management
+          Capabilities in BillingCenter and PolicyCenter</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-FNC-1162_xi407541_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-FNC-1162: Implementing Automated Import/Export for
+          Administrative Data</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-FNC-1121_xi407664_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-FNC-1121: Implementing Product Model Viewer Capability
+          in the PolicyCenter UI</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-FNC-1122_xi407665_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-FNC-1122: Implementing Automated Rate Book Loading in
+          PolicyCenter</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Implementation</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/IS-IMP-1017_xi407542_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-IMP-1017: Logging Standard</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Integration</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/IS-INT-1088_xi407543_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1088: Global Messaging Protocols</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1091_xi407544_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1091: Credentials Management</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1092_xi407545_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1092: Authentication and SSO</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1111_xi407546_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1111: Number Generation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1112_xi407547_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1112: Check Printing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1113_xi407548_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1113: General Ledger</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1114_xi407549_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1114: Document Production with Smart
+          Communications</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1115_xi407550_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1115: Document Management with Hyland
+          OnBase</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1116_xi407551_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1116: REST Client Implementation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1117_xi407552_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1117: Amazon MSK Protocol</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1131_xi407553_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1131: Global Document Management</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1134_xi407554_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1134: Standard for Integration Detailed Design
+          Document Template</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1135_xi407555_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1135: Standard for Amazon S3 Bucket Conventions and
+          Configuration</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1136_xi407556_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1136: Standard for Archiving</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-INT-1145_xi407557_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-INT-1145: Standard for SOAP and REST Web Service
+          authentication</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-INT-1093_xi407666_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-INT-1093: High Volume Quoting</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Methodology</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-MTH-1084_xi407515_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-MTH-1084: Branching Strategy for Guidewire
+          Implementation Projects</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-MTH-1089_xi407516_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-MTH-1089: Behavior-Driven Development</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-MTH-1110_xi407517_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-MTH-1110: Quality Plan</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-MTH-1104_xi407558_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-MTH-1104: Testing Transfer to CA:PS</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-MTH-1094_xi407667_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-MTH-1094: Product Rationalization Using Advanced
+          Product Designer</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Operational</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-OPR-1000_xi407518_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-OPR-1000: Standard Development standard operating
+          procedure</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-OPR-1001_xi407559_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-OPR-1001: Developer Management</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Program management office</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-PMO-1130_xi407519_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-PMO-1130: Project Slack Channel Usage</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Security</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/IS-SEC-1006_xi407560_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1006: Guidewire Security Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1007_xi407561_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1007: Payment Card Industry Security</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1008_xi407562_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1008: Payment Identifiable Information</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1009_xi407563_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1009: Document Collaboration</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1010_xi407564_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1010: Moving Data Security</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1011_xi407565_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1011: Threat Modeling</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1012_xi407566_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1012: Penetration Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1013_xi407567_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1013: California Consumer Privacy Act</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1014_xi407568_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1014: Static Application Security
+          Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1015_xi407569_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1015: Dynamic Application Security
+          Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1016_xi407570_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1016: Open Source Analysis</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1018_xi407571_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1018: Data Security</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1095_xi407572_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1095: General Data Protection Regulation
+          (GDPR)</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1096_xi407573_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1096: Dummy Users in Production</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1129_xi407574_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1129: Security Hardening Guidelines for Cloud
+          Operations</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-SEC-1133_xi407575_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-SEC-1133: Data Obfuscation</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Test data</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/IS-TSD-1103_xi407642_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TSD-1103: Automated Test Data</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TSD-1108_xi407643_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TSD-1108: Manual Functional Test Data</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TSD-1109_xi407644_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TSD-1109: Performance Test Data</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Testing</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-TST-1086_xi407533_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TST-1086: Unit Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TST-1087_xi407534_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TST-1087: Test Strategy</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1090_xi407645_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1090: InsuranceSuite Behavior Testing
+          Framework</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1097_xi407646_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1097: Performance Testing Tools</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1098_xi407647_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1098: Feature Files</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1099_xi407648_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1099: Testing Designated Functions</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1100_xi407649_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1100: Code Coverage</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1101_xi407650_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1101: Performance Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1102_xi407651_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1102: Automated Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1105_xi407652_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1105: Performance Testing Designated
+          Functions</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1107_xi407653_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1107: Automated Rating Testing</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1132_xi407654_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1132: InsuranceSuite Behavior Testing Framework
+          (ISBTF) Glue Code</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TST-1211_xi407694_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TST-1221: Data Migration Testing</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Tools</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-TLS-1085_xi407520_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TLS-1085: Git and Bitbucket for Guidewire
+          Implementation Projects</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1019_xi407576_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1019: Guidewire Services Best Practices Plugin
+          Handbook</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1020_xi407577_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1020: Guidewire Studio Inspection Post Processor
+          Handbook</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1021_xi407578_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1021: Guidewire Studio Inspection
+          Handbook</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/Standard-IS-TLS-1022-DeprecatedAPIUsage_xi406783_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1022: Deprecated Usage Inspection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1023_xi407580_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1023: Deprecated Usage Inspection XT-032 - Use of
+          New Entity Bundleimpl</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1024_xi407581_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1024: Deprecated Usage Inspection XT-038 - Use of
+          Big Decimal.valueOf</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1025_xi407582_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1025: Gosu Language Inspection GS-002 - The
+          variable type is inferred and can be omitted.</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1026_xi407583_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1026: Gosu Language Inspection XT-026 - Use of New
+          Date</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1027_xi407584_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1027: PCF Inspection ST-008 - Unqualified Type in a
+          PCF File</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1028_xi407585_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1028: PCF Inspection XT-039 - Hardcoded Label in a
+          PCF File</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1029_xi407586_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1029: Performance Inspection XT-027 - Multiple
+          Filtering of the Same Collection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1030_xi407587_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1030: Performance Inspection XT-028 - Use of
+          where(...).count()</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1031_xi407588_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1031: Performance Inspection XT-029 - Use of
+          Select(...) with Limiting Functions</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1032_xi407589_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1032: Performance Inspection XT-030 - Use of
+          Query.intersect() of Restriction.intersect()</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1033_xi407590_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1033: Performance Inspection XT-036 - Multiple *.
+          operators</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1034_xi407591_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1034: Resource Management Inspection XT-046 - Use
+          of DriverManager to get JDBC connection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1035_xi407592_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1035: Resource Management Inspection XT-047 - I/O
+          resource opened but not safely closed</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1036_xi407593_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1036: Resource Management Inspection XT-048 - JDBC
+          resource opened but not safely closed</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1037_xi407594_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1037: General TODO comment Inspection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1038_xi407595_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1038: Gosu Language Inspection - Latest Bound
+          Period Inspection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1039_xi407596_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1039: Gosu Language Inspection - Usage of
+          LatestPeriod</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1040_xi407597_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1040: Gosu Language Inspection - Validate Logger
+          Implementaion</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1041_xi407598_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1041: Messaging Inspection - Invalid messaging
+          destination Id</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1042_xi407599_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1042: Messaging Inspection - Messaging destination
+          with no registered events</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1043_xi407600_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1043: Messaging Inspection - Messaging Threads
+          Number</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1044_xi407601_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1044: Messaging Inspection - Retry Logic
+          Inspection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1045_xi407602_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1045: Messaging Inspection - Wildcard Messaging
+          Events</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1046_xi407603_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1046: Messaging Inspection - Enhancement Method
+          Extension Inspection</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1047_xi407604_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1047: Method Metrics Inspection - Abstract Class
+          Name</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1048_xi407605_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1048: Naming Conventions Inspection - Entity column
+          naming standards</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1049_xi407606_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1049: Naming Conventions Inspection - Entity Naming
+          Standards</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1050_xi407607_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1050: Naming Conventions Inspection - Entity or
+          Typelist File Name</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1051_xi407608_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1051: Naming Conventions Inspection - Gosu File in
+          incorrect Directory</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1052_xi407609_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1052: Naming Conventions Inspection - Package
+          Naming Standards</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1053_xi407610_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1053: Naming Conventions Inspection - Typecode
+          Naming Standards</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1054_xi407611_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1054: Naming Conventions Inspection - Typelist
+          Naming Standards</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1055_xi407612_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1055: Naming Conventions Inspection - Uneditable
+          Gosu File Edited</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1056_xi407613_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1056: Naming Conventions Inspection - Uneditable
+          JSON5 File Edited</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1057_xi407614_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1057: Naming Conventions Inspection - Uneditable
+          XML File Edited</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1058_xi407615_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1058: Naming Conventions Inspection - Uneditable
+          YAML File Edited</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1059_xi407616_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1059: Naming Conventions Inspection - XML File in
+          Incorrect Directory</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1060_xi407617_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1060: PCF Inspection - Hard Coded Value in
+          PCF</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1061_xi407618_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1061: PCF Inspection - PCF: Use of search view in
+          list View</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1062_xi407619_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1062: PCF Inspection - Usage of Query API in
+          PCF</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1063_xi407620_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1063: Performance Inspection - Check for Uses of
+          StringBuffer instead of StringBuilder</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1064_xi407621_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1064: Performance Inspection - Gosu bundle Uses
+          SU</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1065_xi407622_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1065: Performance Inspection - Nested
+          Loops</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1066_xi407623_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1066: Performance Inspection - Use of *.over
+          ArrayLoader</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1067_xi407624_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1067: Security Inspection - Access System
+          Properties</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1068_xi407625_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1068: Security Inspection - Call to
+          'Connection.prepare*()' with Non-Constant String</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1069_xi407626_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1069: Security Inspection - Call to
+          'Runtime.exec()' with Non-Constant String</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1070_xi407627_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1070: Security Inspection - Call to
+          'Statement.execute()' with Non-Constant String</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1071_xi407628_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1071: Security Inspection - Call to
+          'System.loadLibrary()' with Non-Constant String</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1072_xi407629_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1072: Security Inspection - Call to
+          'System.setSecurityManager()' with Non-Constant String</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1073_xi407630_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1073: Security Inspection - ClassLoader
+          Instantiation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1074_xi407631_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1074: Security Inspection - Cloneable class in
+          Secure Context</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1075_xi407632_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1075: Security Inspection - Custom
+          ClassLoader</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1076_xi407633_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1076: Security Inspection - Custom
+          SecurityManager</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1077_xi407634_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1077: Security Inspection - Design for
+          Extension</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1078_xi407635_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1078: Security Inspection - Insecure Random Number
+          Generation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1079_xi407636_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1079: Security Inspection - Non-'Static' Inner
+          Class in Secure Context</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1080_xi407637_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1080: Security Inspection - Non-final 'clone()' in
+          Secure Context</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1081_xi407638_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1081: Security Inspection - 'Public Static' Array
+          Field</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TLS-1106_xi407639_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TLS-1106: Test Management with Xray</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+
+    <topichead>
+      <topicmeta>
+        <navtitle>Transition</navtitle>
+      </topicmeta>
+
+      <topicref href="/Content/GW-TRN-1082_xi407521_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1082: Network Transmission to and from Guidewire
+          Cloud on Amazon Web Services</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1146_xi407522_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1146: Database Transmission to Guidewire
+          Cloud</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1147_xi407523_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1147: Data Movement and Encryption</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1148_xi407524_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1148: Data Migration Reconciliation</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1149_xi407525_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1149: Product Compatibility for Upgrades and
+          Updates</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1150_xi407526_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1150: Large Database Pruning</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1154_xi407527_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1154: AWS Transition Playbook</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1155_xi407528_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1155: Database Backup for Transmission to Guidewire
+          Cloud</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1156_xi407529_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1156: Process for Creating CloudOps / Migration
+          Tickets</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1157_xi407530_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1157: Migration Using Unmasked Data</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1158_xi407531_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1158: Database Conversion to Aurora</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/GW-TRN-1160_xi407532_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>GW-TRN-1160: Supporting an Upgrade on CloudOps
+          Infrastructure</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TRN-1139_xi407640_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TRN-1139: Database Consistency Checks</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/IS-TRN-1151_xi407641_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>IS-TRN-1151: Low Downtime Migration Approach</navtitle>
+        </topicmeta>
+      </topicref>
+
+      <topicref href="/Content/PC-TRN-1159_xi407668_1_1.dita" type="concept">
+        <topicmeta>
+          <navtitle>PC-TRN-1159: InForce / History PolicyCenter
+          Migration</navtitle>
+        </topicmeta>
+      </topicref>
+    </topichead>
+  </topichead>
+</map>
